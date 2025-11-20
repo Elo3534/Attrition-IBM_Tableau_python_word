@@ -16,3 +16,4 @@ Enfin, la construction d'un modèle de Machine Learning fournira un outil perfor
 - Microsoft Office Word (compte-rendu des résultats)
 
 
+![Texte alternatif]("C:\GitHub\Attrition-IBM_Tableau_python_word\PRESENTATION-Attrition_IBM_EH.gif")
